@@ -1,1 +1,2 @@
 # Lease-Management
+The Lease Management System leverages Salesforce to simplify and automate real estate leasing operations. From managing tenants and lease contracts to handling payments and communications, it uses tools like flows, approval processes, and email alerts to ensure efficiency and accuracy. The platform also provides real-time visibility into lease performance, financial records, and tenant activities. This makes it easier for organizations to make informed decisions, improve operational efficiency, and deliver seamless leasing services. 
